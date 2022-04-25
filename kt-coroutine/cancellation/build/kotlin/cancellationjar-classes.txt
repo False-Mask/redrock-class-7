@@ -1,0 +1,1 @@
+D:\RedRock\Class\Member\下\kt-coroutine\cancellation\build\classes\kotlin\main\CancelScopeKt.class
